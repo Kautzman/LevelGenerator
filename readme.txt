@@ -1,5 +1,2 @@
-A project to explore the capabilities of XNA.
+This is a brief proof of concept to explore some functionality in XNA.  It is here more for personal reference than it is as a useful project to work off of.
 
-Generates a level from a text file where each character represents a tile (located in debug). 
-
-Currently non-functional as it's very, very poorly optomized and at the moment, is a proof of concept at best.
